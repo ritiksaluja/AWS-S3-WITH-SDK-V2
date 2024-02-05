@@ -1,0 +1,19 @@
+{
+  "name": "aws-s3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ritik",
+  "license": "ISC",
+  "dependencies": {
+    "aws": "^0.0.3-2",
+    "aws-sdk": "^2.1550.0",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3",
+    "sdk": "^0.5.0"
+  }
+}
